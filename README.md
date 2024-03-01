@@ -1,4 +1,5 @@
 # Climate-Change-Related-Projects
 
-![irrigation animation](./C:\Users\merve\Downloads\crop.gif) 
+![GIF Alt Metni](https://raw.githubusercontent.com/mgamzec/ornek-depo/main/crop.gif)
+
 
