@@ -1,5 +1,6 @@
 # Climate-Change-Related-Projects
 
-![GIF Alt Metni](https://raw.githubusercontent.com/mgamzec/ornek-depo/main/crop.gif)
+![GIF Alt Metni]([https://i.imgur.com/abc123.gif](https://imgur.com/a/U4UX0Cz)https://imgur.com/a/U4UX0Cz) 
+
 
 
