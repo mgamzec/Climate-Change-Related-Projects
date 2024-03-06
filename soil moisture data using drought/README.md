@@ -1,7 +1,5 @@
 # NASA-SPoRT-LIS
 
-<a href="[https://github.com/Madhesh-V](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset/about-arset)" target="_blank" rel="noreferrer"><img src="https://www.unoosa.org/images/psa/schedule/2022-UN-Austria-Sym/nasa_arset_logos.png"></a>
-
 NASA ARSET Training, "Application of NASA SPoRT-Land Information System (SPoRT-LIS) Soil Moisture Data for Drought"
 
 This training is focused on the introduction of the NASA Land Information System (LIS) output of soil moisture at various depths for drought analysis and monitoring. Traditional drought applications and indices focus on sensible weather (temperature, wind, etc.) and precipitation trends and their impacts on the hydrologic system. As a result of the NASA Short-term Prediction Research and Transition Center (SPoRT) program and its research-to-operations (R2O) work, this training will demonstrate how LIS output of soil moisture from a land surface model (LSM) can be included in traditional drought monitoring applications. The NASA SPoRT Program has implemented a version of NASA LIS (SPoRT-LIS) that utilizes near real-time Green Vegetation Fraction (GVF) from S-NPP/VIIRS retrievals, as opposed to static, climatology values of GVF.
