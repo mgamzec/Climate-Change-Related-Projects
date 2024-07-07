@@ -10,11 +10,6 @@ Land cover (LC) is the Earth’s surface features; water, soil, vegetation and o
    * Determine the most important features for land cover classification.
    * Compare land cover results with original Sentinel-2 imagery.
 
-# Study Area
-This study area is Hadejia Local Government Area (LGA) in Jigawa state, North-west Nigeria. The area is mainly agricultural, dominated by cropland.
-
-![Study Area Map](Maps_Charts/Study_Area_Hadejia.png "Map of Hadejia LGA")
-
 # Methodology
 
 ## Machine Learning Algorithms
@@ -32,13 +27,6 @@ Support Vector Machines (SVM) focuses on the training samples closest to the opt
 
 ## Workflow
 ![Methodology Framework](Maps_Charts/LC_Flowchart.png "Methodology Framework")
-
-
-# Results
-
-
-https://github.com/Surv-Lukmon/Land-Cover-Classification-Using-Machine-Learning-Algorithms-and-Multi-Source-Satellite-Images/assets/81117834/d38e1685-3d84-40f2-932b-b7ed8d12c06e
-
 
 
 ## Land Cover Maps
