@@ -18,24 +18,9 @@ Random Forests (RF) and Support Vector Machine (SVM) were selected for this proj
 ### Random Forests (RF)
 The Random Forest (RF) algorithm is an ensemble classifier and an advanced version of a Decision Tree (DT) comprising a collection of tree-structured classifiers. A tree is grown using the training set and the most popular class is chosen for each unknown (Breiman, 2001). RF algorithm selects a random subset of variables or predictors at each split (Liaw, 2002). RF algorithm requires two hyperparameters before it starts to separate data, the number of trees to make an ensemble and the number of features at each split. It is also a non-parametric classifier - a statistical assumption on data distribution. RF has a low computational requirement, can estimate the importance of variables, and overcomes the shortcomings of the over-fitting present in DT because it always converges (Pal, 2005; Rodriguez-Galiano, 2012). 
 
-![Random Forest Structure](Maps_Charts/RF_Structure.png "Image Source: Hemashreekilari, 2023")
 
 ### Support Vector Machine (SVM)
 Support Vector Machines (SVM) focuses on the training samples closest to the optimal boundary between classes, known as support vectors. SVM aims to maximize the margin between these support vectors. Although SVM is a binary classifier, it can handle multiple classes by applying the classifier to each class combination, increasing processing time as the number of classes grows (). The parameters of SVM include Cost or slack parameter (C),  Kernel type, and Kernel-dependent parameters - Polynomial: (polynomial order (p)) and Radial basis: (gamma (γ)) (Cortes and Vapnik, 1995; Maxwell et al., 2018).
-
-![Support Vector Machine Structure](Maps_Charts/SVM_Structure.png "Image Source: Datatron")
-
-## Workflow
-![Methodology Framework](Maps_Charts/LC_Flowchart.png "Methodology Framework")
-
-
-## Land Cover Maps
-
-![Insets from Land Cover Layers](Maps_Charts/Results.png "Insets from Land Cover Layers")
-
-## Accuracy Assessment
-
-![Combined Error Matrix](Maps_Charts/Combined_Error_Matrix.png "Error Matrix for RF and SVM")
 
 
 # References / Resources
