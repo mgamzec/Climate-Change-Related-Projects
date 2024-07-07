@@ -1,0 +1,11 @@
+python=3.10
+ipython
+ipykernel
+earthengine-api
+geemap
+pandas
+geopandas
+numpy
+folium
+matplotlib
+scikit-learn
